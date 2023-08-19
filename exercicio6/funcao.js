@@ -4,3 +4,4 @@ export default function dobro (a) {
     x = a*2;
     return x;
 }
+efsfdsf
